@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+header{
+	background-color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2, h3{
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+}
+
+header h1{
+	color: black;
+	text-align: center;
+	font-size: 50px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 100px;
+}
+ 
+h2{
+	font-size: 30px;
+}
+h3{
+	font-size: 20px;
+}
+
+a{
+	color: red;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 50px
+}
+footer p{
+	margin: 0;
+}
